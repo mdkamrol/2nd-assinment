@@ -441,8 +441,33 @@ font-size: 15px;
 
 @media screen and (max-width: 576px) {
 
+.foter-sao-father,.foter-sao-father2{
+  margin-left: -15px;
+
+
+}
+
+
+.plants-lover-abba{
+  margin-left: -30px;
+}
+.plants-lover-abba h1{
+  margin-left: -33px;
+}
+  .banner h1, .banner p{
+    padding-left: 20px;
+    text-align: start;
+  }
  .footer-last-subtitle{
   font-size: 15px;
+ }
+
+.nav-father{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+ footer{
+  margin-bottom: 50px;
  }
 
   .last-abba{
