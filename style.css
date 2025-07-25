@@ -441,6 +441,15 @@ font-size: 15px;
 
 @media screen and (max-width: 576px) {
 
+ .footer-last-subtitle{
+  font-size: 15px;
+ }
+
+  .last-abba{
+    padding-left: 20px;
+    margin-bottom: 50px;
+  }
+
   .last-abba{
  width: 50px;
   height: 60px;
@@ -449,9 +458,13 @@ font-size: 15px;
   .foter-sao-father{
     margin-top: -25px;
     
-  margin-bottom: 50px;
+  margin-bottom: -25px;
  
 
+  }
+
+  .foter-sao-father2{
+    margin-bottom: -25px;
   }
 
   .footer-all-father{
