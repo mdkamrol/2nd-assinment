@@ -393,7 +393,7 @@ font-size: 15px;
   display: flex;
   justify-content: space-around;
   height: 350px;
-  background-color: red;
+  
 }
 
 .footer-last-subtitle{
@@ -414,10 +414,24 @@ font-size: 15px;
 }
 
 .last-abba{
-  display: grid;
-  grid-template-columns: auto auto auto auto;
+  display: flex;
+ gap:20px;
+
+  
 }
 
+.last-abba img{
+  width: 35px;
+  height: 35px;
+  margin-top: 30px;
+}
+
+.last-dady{
+  border-top:1px solid rgba(107, 114, 128, 0.199);
+  width: 100%;
+  margin-top: 20px;
+  padding-top:50px;
+}
 
 
 
